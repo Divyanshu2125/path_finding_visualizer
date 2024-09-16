@@ -15,20 +15,17 @@ function NavBar() {
       <div className="navbar-end">
         <a
           className="btn btn-sm p-2 m-1 normal-case"
-          href="https://github.com/HarshRaj2717/pathfinding-visualiser"
+          href="https://github.com/Divyanshu2125/path_finding_visualizer"
           target="_blank"
           rel="noopener noreferrer"
         >
           GitHub
         </a>
-        <a
+        <button
           className="btn btn-sm p-2 m-1 btn-outline btn-ghost btn-info normal-case"
-          href="https://hraj.dev"
-          target="_blank"
-          rel="noopener noreferrer"
         >
-          By: Harsh Raj
-        </a>
+          By: Divyanshu Kaushal
+        </button>
       </div>
     </div>
   );
